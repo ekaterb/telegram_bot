@@ -1,0 +1,12 @@
+temperature:
+  -100: freeze
+  6: cold
+  16: warm
+  26: heat
+rain:
+  0: no_rain
+  10: calm
+  30: strong
+windspeed:
+  0: calm
+  70: strong
